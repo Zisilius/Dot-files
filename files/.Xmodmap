@@ -1,0 +1,24 @@
+remove Lock = Caps_Lock
+!keycode 66 = Escape
+keysym Caps_Lock = Escape
+keysym Escape = Caps_Lock
+add Lock = Caps_Lock
+
+!!! COLEMAK SETTINGS !!!
+
+!remove Control = Control_R
+!remove Mod1 = Alt_R
+!remove Shift = Shift_L
+!remove Lock = Caps_Lock
+!keycode 105 = Alt_R
+!keycode 108 = Control_R
+!keycode 56 = Escape
+!keycode 55 = b
+!keycode 54 = v
+!keycode 53 = c
+!jkeycode 52 = x
+!keycode 50 = z
+!keycode 66 = Shift_L
+!add Shift = Shift_L
+!add Control = Control_R
+!add Mod1 = Alt_R
